@@ -1,7 +1,7 @@
 {
   "name": "image-processing-api",
   "version": "1.0.1",
-  "description": "Starter project on Udacity",
+  "description": "learn full-stack Udacity",
   "main": "index.ts",
   "scripts": {
     "build": "npx tsc",
